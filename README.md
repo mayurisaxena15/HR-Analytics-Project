@@ -21,7 +21,7 @@ The project consists of five pages, each providing distinct insights:
       ``` dax
       Active Employees = SUM('HR-Employee-Attrition'[EmployeeCount])-SUM('HR-Employee-Attrition'[Attrition count])
       ```
-    - Data groups were created to make better visuals. Then visualizations of total attrition by work life balance, by age and by distamce from home was created.
+    - Data groups were created to make better visuals. Then visualizations of total attrition by work life balance, by age and by distance from home was created.
 * Third page: Turnover Analysis 1
   - Investigates the factors contributing to employee turnover.
 * Fourth Page: Turnover Analysis 2
