@@ -1,4 +1,4 @@
-# MeriSKILL-HR-Analytics-Internship-Project
+# HR-Analytics-Internship-Project
 This project involves performing data visualization on an HR dataset using Power BI. The aim is to gain insights into various aspects such as demographics, turnover, and employee wellness. The process includes loading and transforming data, identifying and handling null values, and creating comprehensive dashboards.
 ## Steps Followed:
 * Data Loading and Transformation
